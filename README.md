@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="[https://raw.githubusercontent.com/Tarekcou/tarekcou/refs/heads/main/github_banner_frontend_developer.jpg](https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true)"  />
+  <img height="200" src="https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true"  />
 </div>
 
 ###
