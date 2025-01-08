@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" width="350" src="https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true"  />
+  <img height="200" width="500" src="https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true"  />
 </div>
 
 ###
