@@ -1,4 +1,4 @@
-<h1 align="left">Shoriful Islam Tarek<br>Front End Developer</h1>
+<h1 align="left">MD. Shoriful Islam <br>Front End Developer (React)</h1>
 
 ###
 
