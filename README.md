@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="400" width="800" src="https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true"  />
+  <img height="400" width="800" src="[https://github.com/Tarekcou/tarekcou/blob/main/bg.png?raw=true](https://raw.githubusercontent.com/Tarekcou/tarekcou/refs/heads/main/Shorfiul%20Islam%20Tarek(Github).png)"  />
 </div>
 
 ###
