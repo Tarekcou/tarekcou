@@ -1,4 +1,4 @@
-<h1 align="left">MD. Shoriful Islam <br>Front End Developer (React)</h1>
+<h1 align="left">MD. Shoriful Islam Tarek<br>Full Stack Developer (React)</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">👩‍💻 React Developer | Frontend Developer<br><br>🌐 Building modern, responsive, and interactive web applications.<br>⚛️ Skilled in React, JavaScript (ES6+), HTML, CSS, and RESTful APIs.<br>📚 Currently mastering advanced React patterns and performance optimization.<br>🚀 Passionate about learning new technologies and contributing to open source.<br>🌟 Open to collaboration on exciting web projects.<br><br>=>AI/ML Enthusiast</p>
+<p align="left">👩‍💻 React Developer | Frontend Developer | Full Stack Developer<br><br>🌐 Building modern, responsive, and interactive web applications.<br>⚛️ Skilled in React, JavaScript (ES6+), HTML, CSS, and RESTful APIs.<br>📚 Currently mastering advanced React patterns and performance optimization.<br>🚀 Passionate about learning new technologies and contributing to open source.<br>🌟 Open to collaboration on exciting web projects.<br><br>=>AI/ML Enthusiast</p>
 
 ###
 
