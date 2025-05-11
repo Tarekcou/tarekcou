@@ -18,25 +18,23 @@ Recently, I led the development of a government software project as a Project Ma
 
 Earlier, I worked as an Android Developer at IOTA IT, where I built custom mobile applications tailored to client needs.
 
-🔧 Tech Stack & Skills
-✅ Frontend: JavaScript (ES6+), React.js, Next.js, TypeScript, Tailwind CSS
-✅ Backend: Node.js, Express.js, MongoDB, REST APIs
-✅ Tools: Firebase, JWT, Vercel, AWS
-✅ Focus Areas: AI-powered Web Apps, Generative AI Integration
+🔧 Tech Stack & Skills <br>
+✅ Frontend: JavaScript (ES6+), React.js, Next.js, TypeScript, Tailwind CSS <br>
+✅ Backend: Node.js, Express.js, MongoDB, REST APIs <br>
+✅ Tools: Firebase, JWT, Vercel, AWS <br>
+✅ Focus Areas: AI-powered Web Apps, Generative AI Integration <br>
 
-🏆 Highlights
-
-HackerRank Gold-Level Problem Solver
+Highlights:  HackerRank Gold-Level Problem Solver  <br>
 
 Passionate about using AI/ML to build the next generation of web applications
 
 📬 Let’s Connect
 I’m always eager to learn, collaborate, and contribute to exciting web and AI projects. Let’s connect if you’re looking for a motivated full stack developer who’s actively growing in the tech space!
 
-📧 Email: shorifulislamtarek.dev@gmail.com
-🔗 GitHub: https://github.com/tarekcou
-🌐 Portfolio: https://shorifulislamtarek.vercel.app/
-💻 HackerRank: hackerrank.com/sitarek77</p>
+📧 Email: shorifulislamtarek.dev@gmail.com <br>
+🔗 GitHub: https://github.com/tarekcou <br>
+🌐 Portfolio: https://shorifulislamtarek.vercel.app/ <br>
+💻 HackerRank: hackerrank.com/sitarek77</p> <br>
 
 ###
 
