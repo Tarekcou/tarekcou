@@ -97,9 +97,14 @@ I’m always eager to learn, collaborate, and contribute to exciting web and AI 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shoriful-islam-tarek-157010133/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+ <a href="https://www.linkedin.com/in/shoriful-islam-tarek-157010133/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
+
+<a href="https://wa.me/+8801818424256" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+</a>
+
 </div>
 
 ###
