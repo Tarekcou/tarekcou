@@ -12,7 +12,31 @@
 
 ###
 
-<p align="left">👩‍💻 React Developer | Frontend Developer | Full Stack Developer<br><br>🌐 Building modern, responsive, and interactive web applications.<br>⚛️ Skilled in React, JavaScript (ES6+), HTML, CSS, and RESTful APIs.<br>📚 Currently mastering advanced React patterns and performance optimization.<br>🚀 Passionate about learning new technologies and contributing to open source.<br>🌟 Open to collaboration on exciting web projects.<br><br>=>AI/ML Enthusiast</p>
+<p align="left">I am a Full Stack Web Developer with 8 months of practical experience, passionate about building responsive, scalable, and modern web applications using React.js, Next.js, and TypeScript. On the backend, I work with Node.js, Express.js, and MongoDB to create efficient and secure server-side solutions.
+
+Recently, I led the development of a government software project as a Project Manager & Full Stack Developer, where I was responsible for planning, coordinating, and implementing key features to digitize internal processes. This real-world project helped me sharpen both my technical and communication skills.
+
+Earlier, I worked as an Android Developer at IOTA IT, where I built custom mobile applications tailored to client needs.
+
+🔧 Tech Stack & Skills
+✅ Frontend: JavaScript (ES6+), React.js, Next.js, TypeScript, Tailwind CSS
+✅ Backend: Node.js, Express.js, MongoDB, REST APIs
+✅ Tools: Firebase, JWT, Vercel, AWS
+✅ Focus Areas: AI-powered Web Apps, Generative AI Integration
+
+🏆 Highlights
+
+HackerRank Gold-Level Problem Solver
+
+Passionate about using AI/ML to build the next generation of web applications
+
+📬 Let’s Connect
+I’m always eager to learn, collaborate, and contribute to exciting web and AI projects. Let’s connect if you’re looking for a motivated full stack developer who’s actively growing in the tech space!
+
+📧 Email: shorifulislamtarek.dev@gmail.com
+🔗 GitHub: https://github.com/tarekcou
+🌐 Portfolio: https://shorifulislamtarek.vercel.app/
+💻 HackerRank: hackerrank.com/sitarek77</p>
 
 ###
 
